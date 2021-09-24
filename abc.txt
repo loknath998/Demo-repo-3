@@ -4,3 +4,7 @@ A file containg alphabets
 a
 b
 c
+
+d
+e
+f
